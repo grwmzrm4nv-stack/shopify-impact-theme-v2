@@ -21,7 +21,7 @@
         "full_width": true,
         "allow_transparent_header": true,
         "autoplay": true,
-        "video_size": "auto",
+        "video_size": "sm",
         "video": "shopify://files/videos/19192e958394426bb2f2906e66892bfb.mov",
         "mobile_video": "shopify://files/videos/19192e958394426bb2f2906e66892bfb.mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
