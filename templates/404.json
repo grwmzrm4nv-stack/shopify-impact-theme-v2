@@ -228,6 +228,8 @@
       "name": "Hot spots",
       "settings": {
         "full_width": true,
+        "image": "shopify://shop_images/IMG_0511.webp",
+        "mobile_image": "shopify://shop_images/IMG_0511.webp",
         "title": "",
         "content": "",
         "button_text": "",
