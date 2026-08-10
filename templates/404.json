@@ -294,8 +294,8 @@
         "item_tpdHPK": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "How is my card protected?",
+            "content": "<p>Each card is protected using multiple layers:</p><ol><li>Sleeve</li><li>Side loader or top loader</li><li>Secure internal compartment within the phone case</li></ol><p>The card is sandwiched between the phone and the case, providing excellent protection from bending, debris, and daily handling.</p><p>Our side loaders and sleeves include <strong>UV-protective additives</strong>. Additionally, the case’s patent-pending internal locking design provides <strong>water resistance</strong>, helping protect the card in everyday environments on the exterior.</p>"
           }
         },
         "item_H6EawD": {
