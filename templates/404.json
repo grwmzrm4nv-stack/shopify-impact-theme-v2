@@ -311,33 +311,25 @@
             "title": "Do you ship internationally?",
             "content": "<p>Yes, we ship worldwide.</p><h4>Fast processing less than 48h</h4><h4>No Surprise Fees</h4>"
           }
-        },
-        "item_P97TBX": {
-          "type": "item",
-          "settings": {
-            "title": "What UV protection does the case provide?",
-            "content": "<p>The included side loaders and top loaders feature <strong>UV-protected materials</strong> designed to reduce UV exposure over time.</p><p>While no product can completely eliminate UV exposure, these materials help slow fading and discoloration. For maximum protection, we recommend rotating displayed cards periodically and avoiding prolonged direct sunlight.</p>"
-          }
         }
       },
       "block_order": [
         "item_Pic48A",
         "item_tpdHPK",
         "item_H6EawD",
-        "item_9cwyBy",
-        "item_P97TBX"
+        "item_9cwyBy"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "",
+        "content": "<p>This FAQ section is intended to provide clear, up-to-date information about PPSA Case products, policies, and limitations.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
+        "support_hours": "Our customer support is available everyday: 8am-8:30pm. (8h-20h30)",
+        "answer_time": "Average answer time: ~30min",
+        "button_text": "contact us",
+        "button_url": "shopify://pages/contact",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
