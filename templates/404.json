@@ -16,6 +16,22 @@
     },
     "video_MnNyMP": {
       "type": "video",
+      "blocks": {
+        "button_qFGgxx": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "lg",
+            "text": "Button text",
+            "url": "",
+            "background": "",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "button_qFGgxx"
+      ],
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -24,7 +40,7 @@
         "video_size": "auto",
         "video": "shopify://files/videos/19192e958394426bb2f2906e66892bfb_9a7a1661-77e8-44c9-b38f-bedc7c7a54bd.mov",
         "mobile_video": "shopify://files/videos/19192e958394426bb2f2906e66892bfb_9a7a1661-77e8-44c9-b38f-bedc7c7a54bd.mov",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -180,39 +196,6 @@
         "heading_gradient": ""
       }
     },
-    "featured_collection_MK7Ptn": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "iphone",
-        "products": [
-          "iphone-17-pro-max-crystal-clear",
-          "iphone-17-pro",
-          "iphone-17",
-          "iphone-16-pro-max",
-          "iphone-15-pro-max",
-          "iphone-15"
-        ],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "shopify://collections/iphone",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "hot_spots_cpgY3b": {
       "type": "hot-spots",
       "blocks": {
@@ -279,6 +262,39 @@
         "hot_spot_content_text_color": "#000000",
         "hot_spot_content_opacity": 90,
         "hot_spot_content_blur_radius": 3
+      }
+    },
+    "featured_collection_MK7Ptn": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "iphone",
+        "products": [
+          "iphone-17-pro-max-crystal-clear",
+          "iphone-17-pro",
+          "iphone-17",
+          "iphone-16-pro-max",
+          "iphone-15-pro-max",
+          "iphone-15"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "shopify://collections/iphone",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     }
   },
