@@ -197,6 +197,46 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_ixActN": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_HPekhW": {
+          "type": "subheading",
+          "settings": {
+            "text": "AN UNEXPECTED CAMEO"
+          }
+        },
+        "heading_y6FY7L": {
+          "type": "heading",
+          "settings": {
+            "text": "Spotted in Super Bowl LX Ad.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": "linear-gradient(57deg, rgba(84, 132, 255, 1) 22%, rgba(240, 196, 23, 1) 73%)"
+          }
+        },
+        "richtext_hMat7A": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Maitreyi Ramakrishnan, a Netflix star, reached out to us back when we first launched the product and became one of our earliest customers. Over a year later, she's still using the case.</p><p>We were completely shocked (in the best way) when we caught her with it in Pokémon's 2026 Super Bowl LX spot. <strong>Watch closely</strong> at the 0:56 mark in the 40-million-view video, the case flashes on screen for less than a second.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_HPekhW",
+        "heading_y6FY7L",
+        "richtext_hMat7A"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_collection_MK7Ptn": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -306,46 +346,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "rich_text_ixActN": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_HPekhW": {
-          "type": "subheading",
-          "settings": {
-            "text": "AN UNEXPECTED CAMEO"
-          }
-        },
-        "heading_y6FY7L": {
-          "type": "heading",
-          "settings": {
-            "text": "Spotted in Super Bowl LX Ad.",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": "linear-gradient(57deg, rgba(84, 132, 255, 1) 22%, rgba(240, 196, 23, 1) 73%)"
-          }
-        },
-        "richtext_hMat7A": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>For a nanosecond. We probably wouldn't have caught it if Maitreyi wasn't already a customer.</p><p>Maitreyi Ramakrishnan, a Netflix star, reached out to us back when we first launched the product and became one of our earliest customers. Over a year later, she's still using the case.</p><p>We were completely shocked (in the best way) when we caught her with it in Pokémon's 2026 Super Bowl LX spot. <strong>Watch closely</strong> at the 0:56 mark in the 40-million-view video, the case flashes on screen for less than a second</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_HPekhW",
-        "heading_y6FY7L",
-        "richtext_hMat7A"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     }
   },
