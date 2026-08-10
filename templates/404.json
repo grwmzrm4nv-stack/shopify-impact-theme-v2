@@ -58,12 +58,27 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_EDtcHU": {
+          "type": "collection",
+          "settings": {
+            "collection": "safe-card-package",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h5",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "collection_gytitg",
         "collection_7mkbiz",
-        "collection_pbMcaH"
+        "collection_pbMcaH",
+        "collection_EDtcHU"
       ],
       "name": "Collection list",
       "settings": {
