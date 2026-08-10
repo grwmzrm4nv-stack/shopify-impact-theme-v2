@@ -116,7 +116,10 @@
       "type": "related-products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "5-full-art-pokemon-cards-japenese",
+          "card-safe-package-top-loaders"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
@@ -136,22 +139,6 @@
     },
     "17510116181812636e": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_GazxyG": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 16,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_GazxyG"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
