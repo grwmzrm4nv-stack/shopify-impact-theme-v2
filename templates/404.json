@@ -180,50 +180,6 @@
         "heading_gradient": ""
       }
     },
-    "hot_spots_cpgY3b": {
-      "type": "hot-spots",
-      "blocks": {
-        "item_aqCNn8": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 34,
-            "vertical_position": 66,
-            "horizontal_position_mobile": 39,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_aqCNn8"
-      ],
-      "name": "Hot spots",
-      "settings": {
-        "full_width": true,
-        "image": "shopify://shop_images/IMG_0511.webp",
-        "mobile_image": "shopify://shop_images/IMG_0511.webp",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
     "featured_collection_MK7Ptn": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -334,6 +290,63 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "image_with_text_overlay_cVeYiW": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/IMG_0511.webp",
+        "mobile_image": "shopify://shop_images/IMG_0511.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_ixActN": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_HPekhW": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_y6FY7L": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_hMat7A": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_HPekhW",
+        "heading_y6FY7L",
+        "richtext_hMat7A"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -341,9 +354,10 @@
     "video_MnNyMP",
     "image_link_blocks_TqjT3J",
     "collection_list_A3bYWx",
-    "hot_spots_cpgY3b",
     "featured_collection_MK7Ptn",
     "faq_dHpMAx",
-    "newsletter_mnUyWt"
+    "newsletter_mnUyWt",
+    "image_with_text_overlay_cVeYiW",
+    "rich_text_ixActN"
   ]
 }
