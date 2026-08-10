@@ -186,34 +186,10 @@
         "item_aqCNn8": {
           "type": "item",
           "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
+            "horizontal_position": 16,
+            "vertical_position": 66,
+            "horizontal_position_mobile": 36,
             "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "item_8tdkLp": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "item_RKGRUb": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
             "icon_width": 32,
             "title": "Feature name",
             "content": "<p>Share useful information about your product features.</p>"
@@ -221,9 +197,7 @@
         }
       },
       "block_order": [
-        "item_aqCNn8",
-        "item_8tdkLp",
-        "item_RKGRUb"
+        "item_aqCNn8"
       ],
       "name": "Hot spots",
       "settings": {
