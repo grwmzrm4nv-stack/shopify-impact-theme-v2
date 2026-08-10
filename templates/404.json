@@ -52,11 +52,11 @@
             "subheading": "",
             "title": "",
             "url": "",
-            "heading_tag": "h2",
+            "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_EDtcHU": {
