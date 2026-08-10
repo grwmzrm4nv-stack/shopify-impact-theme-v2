@@ -16,23 +16,6 @@
     },
     "video_MnNyMP": {
       "type": "video",
-      "blocks": {
-        "play_DWQBmJ": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_yrjPGY": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_DWQBmJ",
-        "heading_yrjPGY"
-      ],
       "name": "Video",
       "settings": {
         "full_width": true,
