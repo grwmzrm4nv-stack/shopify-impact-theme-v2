@@ -304,12 +304,28 @@
             "title": "What UV protection does the case provide?",
             "content": "<p>The included side loaders and top loaders feature <strong>UV-protected materials</strong> designed to reduce UV exposure over time.</p><p>While no product can completely eliminate UV exposure, these materials help slow fading and discoloration. For maximum protection, we recommend rotating displayed cards periodically and avoiding prolonged direct sunlight.</p>"
           }
+        },
+        "item_9cwyBy": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship internationally?",
+            "content": "<p>Yes, we ship worldwide.</p><h4>Fast processing less than 48h</h4><h4>No Surprise Fees</h4>"
+          }
+        },
+        "item_P97TBX": {
+          "type": "item",
+          "settings": {
+            "title": "What UV protection does the case provide?",
+            "content": "<p>The included side loaders and top loaders feature <strong>UV-protected materials</strong> designed to reduce UV exposure over time.</p><p>While no product can completely eliminate UV exposure, these materials help slow fading and discoloration. For maximum protection, we recommend rotating displayed cards periodically and avoiding prolonged direct sunlight.</p>"
+          }
         }
       },
       "block_order": [
         "item_Pic48A",
         "item_tpdHPK",
-        "item_H6EawD"
+        "item_H6EawD",
+        "item_9cwyBy",
+        "item_P97TBX"
       ],
       "name": "FAQ",
       "settings": {
