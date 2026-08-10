@@ -75,6 +75,7 @@
         "item_PqAMFV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_0510.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
