@@ -19,7 +19,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h5"
+            "heading_tag": "h4"
           }
         },
         "badges": {
@@ -147,11 +147,86 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_link_blocks_Jp99iw": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_KxApPP": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_6RzYEx": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_T4kM8M": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_fYkTP4": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_KxApPP",
+        "item_6RzYEx",
+        "item_T4kM8M",
+        "item_fYkTP4"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "17510116181812636e"
+    "17510116181812636e",
+    "image_link_blocks_Jp99iw"
   ]
 }
