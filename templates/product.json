@@ -51,7 +51,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "collapse_content": false
+            "collapse_content": true
           }
         },
         "variant_picker": {
