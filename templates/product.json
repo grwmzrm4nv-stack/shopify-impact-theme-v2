@@ -34,6 +34,7 @@
         },
         "rating": {
           "type": "rating",
+          "disabled": true,
           "settings": {
             "show_empty": false
           }
@@ -46,14 +47,6 @@
           "type": "separator",
           "settings": {}
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": true
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -65,10 +58,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -78,6 +67,14 @@
             "atc_button_text_color": "#FFFFFF",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": true
           }
         }
       },
@@ -89,10 +86,9 @@
         "rating",
         "payment_terms",
         "separator",
-        "description",
         "variant_picker",
-        "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "description"
       ],
       "settings": {
         "full_width": true,
