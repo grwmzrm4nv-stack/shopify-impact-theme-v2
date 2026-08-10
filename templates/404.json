@@ -30,6 +30,83 @@
         "overlay_opacity": 0
       }
     },
+    "image_link_blocks_TqjT3J": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_AKAYRR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9373_jpg.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_99rPTx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0085.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_dECkyW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0508.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_PqAMFV": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_AKAYRR",
+        "item_99rPTx",
+        "item_dECkyW",
+        "item_PqAMFV"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "collection_list_A3bYWx": {
       "type": "collection-list",
       "blocks": {
@@ -108,7 +185,7 @@
         "title": "TCG Phone Case:",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -120,6 +197,7 @@
   "order": [
     "main",
     "video_MnNyMP",
+    "image_link_blocks_TqjT3J",
     "collection_list_A3bYWx"
   ]
 }
