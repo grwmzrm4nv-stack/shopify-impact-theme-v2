@@ -62,7 +62,8 @@
         "collection_EDtcHU": {
           "type": "collection",
           "settings": {
-            "collection": "safe-card-package",
+            "collection": "sealed-pokemon-cards",
+            "image": "shopify://shop_images/IMG_0313.jpg",
             "subheading": "",
             "title": "",
             "url": "",
