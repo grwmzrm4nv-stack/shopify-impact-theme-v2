@@ -59,11 +59,10 @@
         "item_nQUtpG",
         "item_WqymXa"
       ],
-      "disabled": true,
       "name": "Text with icons",
       "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
+        "full_width": false,
+        "stack_on_mobile": false,
         "title": "",
         "heading_tag": "h5",
         "text_alignment": "center",
