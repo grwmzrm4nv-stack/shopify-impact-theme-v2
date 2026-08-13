@@ -166,8 +166,8 @@
         "full_width": true,
         "stack_collections": true,
         "collections_per_row_mobile": "2",
-        "collections_per_row": 3,
-        "show_progress_bar": false,
+        "collections_per_row": 4,
+        "show_progress_bar": true,
         "subheading": "TCG Phone Case:",
         "title": "",
         "content": "",
@@ -353,10 +353,10 @@
     "main",
     "video_MnNyMP",
     "image_link_blocks_TqjT3J",
+    "featured_collection_MK7Ptn",
     "collection_list_A3bYWx",
     "image_with_text_overlay_cVeYiW",
     "rich_text_ixActN",
-    "featured_collection_MK7Ptn",
     "faq_dHpMAx",
     "newsletter_mnUyWt"
   ]
