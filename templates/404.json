@@ -185,7 +185,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 21
           }
         },
         "collection_7mkbiz": {
@@ -199,7 +199,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 26
           }
         },
         "collection_pbMcaH": {
@@ -213,17 +213,17 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 20
           }
         },
         "collection_EDtcHU": {
           "type": "collection",
           "settings": {
-            "collection": "sealed-pokemon-cards",
-            "image": "shopify://shop_images/IMG_0313.jpg",
+            "collection": "safe-card-package",
+            "image": "shopify://shop_images/IMG_0229.webp",
             "subheading": "",
             "title": "",
-            "url": "",
+            "url": "shopify://collections/safe-card-package",
             "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
