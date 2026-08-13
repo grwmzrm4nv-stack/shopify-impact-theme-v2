@@ -127,48 +127,21 @@
         "product_card_text_color": ""
       }
     },
-    "hot_spots_k646i9": {
-      "type": "hot-spots",
-      "blocks": {
-        "item_HVJ9Db": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 31,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Card Safe Package (Top loaders)",
-            "content": "<p>Protect your most valuable cards with the PSA Package, designed specifically to fit a graded slab securely. Whether you’re shipping, storing, or displaying, this lightweight yet durable cocoon keeps your cards safe from bends, scratches, and pressure damage.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_HVJ9Db"
-      ],
-      "name": "Hot spots",
+    "image_with_text_overlay_bQEU4X": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/IMG_0229.webp",
-        "mobile_image": "shopify://shop_images/IMG_0229.webp",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "shopify://products/card-safe-package-top-loaders",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify://shop_images/IMG_0510.jpg",
+        "mobile_image": "shopify://shop_images/IMG_0510.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
+        "overlay_opacity": 0
       }
     },
     "collection_list_A3bYWx": {
@@ -291,18 +264,11 @@
             "text_color": "",
             "gradient": "linear-gradient(57deg, rgba(84, 132, 255, 1) 22%, rgba(240, 196, 23, 1) 73%)"
           }
-        },
-        "richtext_hMat7A": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Maitreyi Ramakrishnan, a Netflix star, reached out to us back when we first launched the product and became one of our earliest customers. Over a year later, she's still using the case.</p><p>We were completely shocked (in the best way) when we caught her with it in Pokémon's 2026 Super Bowl LX spot. <strong>Watch closely</strong> at the 0:56 mark in the 40-million-view video, the case flashes on screen for less than a second.</p>"
-          }
         }
       },
       "block_order": [
         "subheading_HPekhW",
-        "heading_y6FY7L",
-        "richtext_hMat7A"
+        "heading_y6FY7L"
       ],
       "name": "Rich text",
       "settings": {
@@ -357,7 +323,7 @@
         "full_width": true,
         "subheading": "",
         "title": "",
-        "content": "<p>This FAQ section is intended to provide clear, up-to-date information about PPSA Case products, policies, and limitations.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available everyday: 8am-8:30pm. (8h-20h30)",
         "answer_time": "Average answer time: ~30min",
@@ -398,7 +364,7 @@
     "video_MnNyMP",
     "image_link_blocks_TqjT3J",
     "featured_collection_MK7Ptn",
-    "hot_spots_k646i9",
+    "image_with_text_overlay_bQEU4X",
     "collection_list_A3bYWx",
     "image_with_text_overlay_cVeYiW",
     "rich_text_ixActN",

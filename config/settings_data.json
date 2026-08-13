@@ -18,6 +18,7 @@
     "block_shadow_vertical_offset": 18,
     "icon_stroke_width": 2,
     "icon_style": "mono",
+    "button_style": "fill",
     "background": "#ffffff",
     "text_color": "#1a1a1a",
     "header_background": "#ffffff",
